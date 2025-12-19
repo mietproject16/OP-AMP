@@ -1,6 +1,6 @@
 # OP-AMP
-## REG NUM :
-## NAME :
+## REG NUM :25019176
+## NAME :ARUN M
 ## EPERRIMENT NO 5: Design a CMOS Operational Amplifier and find out the AC analysis.
 ## Aim:
 To design a CMOS Operational Amplifier and find out the AC analysis.
@@ -48,6 +48,7 @@ Net list and Run in the simulation window to start the Simulation.
 When simulation finishes, the DC, AC plots automatically will be popped up along file.
 
 ## Waveforms:
+<img width="1916" height="970" alt="out opamp 1" src="https://github.com/user-attachments/assets/aa6d4405-d2fb-4f68-8bf9-609943652bca" />
 
 ## RESULT:
 The Design a CMOS Operational Amplifier and find out the AC analysis is performed.
